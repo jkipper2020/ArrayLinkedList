@@ -1,0 +1,1 @@
+creates a custom linked list and arraylist without java collections and uses a master testing class to show what it does. also custom made objects with inheritance 
